@@ -122,9 +122,9 @@ override-dependencies = [
 # Required for development and running tests
 ############################################################
 dev = [
-    "coverage~=7.17.3",
+    "coverage~=7.17.4",
     "dotenv-linter~=0.9.0",
-    "faker~=40.54.0",
+    "faker~=40.63.0",
     "lxml-stubs~=0.5.1",
     "basedpyright~=1.40.2",
     "ruff~=0.17.6",
@@ -168,9 +168,9 @@ dev = [
     "types-tensorflow>=2.18.0.20261009",
     "types-tqdm>=4.70.0.20261106",
     "types-ujson>=5.10.0",
-    "boto3-stubs>=1.44.7",
+    "boto3-stubs>=1.44.9",
     "types-jmespath>=1.1.0.20260724",
-    "hypothesis>=6.170.16",
+    "hypothesis>=6.170.17",
     "types_pyOpenSSL>=24.1.0",
     "types_cffi>=2.1.0.20260827",
     "types_setuptools>=84.2.0.20261104",
